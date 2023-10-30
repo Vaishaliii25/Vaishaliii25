@@ -13,7 +13,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishaaaaliiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-bhatnagar) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishaaaaliiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishali-singh25) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,php,py,r,aws,azure,docker,firebase,netlify,heroku,vercel,bootstrap,express,flask,laravel,nextjs,nodejs,react,redux,tailwind,threejs,vue,vite,blender,cloudflare,figma,git,matlab,mongodb,mysql)](https://skillicons.dev)
