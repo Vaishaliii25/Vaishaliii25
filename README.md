@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,py,r,aws,azure,docker,flask,figma,git,matlab,mysql)](https://skillicons.dev)
 
 # Badges
-[![An image of @kartikeyyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikeyyy)](https://holopin.io/@kartikeyyy)
+[![An image of @vaishaliii25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishaliii25)](https://holopin.io/@vaishaliii25)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vaishaliii25&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
