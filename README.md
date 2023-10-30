@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=70&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+!;Welcome+to+my+profile;My+name+is+Vaishali+Singh;I'm+a+pre-final+year+student;I'm+a+developer;Problem-solver;Ai%2FMl+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&color=F7F7F7&lines=Hey+there+!;Welcome+to+my+profile;My+name+is+Vaishali+Singh;I'm+a+pre-final+year+student;I'm+a+passionate+data+science+enthusiast;I+thrive+on+solving+problems;I'm+dedicated+to+the+world+of+AI%2FML)](https://git.io/typing-svg)
 
 
 </div>
@@ -9,11 +9,11 @@
 
 
 ## 💫 About Me:
-📫 Reach me at: kartikeybhatnagar.shs@gmail.com <!----📄 Check my resume <br>-->  <br>🌱 I’m currently learning Data Science<br>
+📫 Reach me at: vaishali.singh2501@gmail.com <!----📄 Check my resume <br>-->  <br>🌱 I’m currently exploring web development<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartickeyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-bhatnagar) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishaaaaliiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikey-bhatnagar) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,php,py,r,aws,azure,docker,firebase,netlify,heroku,vercel,bootstrap,express,flask,laravel,nextjs,nodejs,react,redux,tailwind,threejs,vue,vite,blender,cloudflare,figma,git,matlab,mongodb,mysql)](https://skillicons.dev)
